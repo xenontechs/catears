@@ -1,0 +1,2 @@
+- catears.svg: a recreation of the cat ears, as svg, for recreational use
+- catears.step: cat ears in step format for better modification possibilities
