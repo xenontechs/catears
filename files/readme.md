@@ -1,3 +1,3 @@
-- catears.svg: a recreation of the cat ears, as svg, for recreational use
-- catears.step: cat ears in step format for better modification possibilities
-- catears.stl: ready to slice model
+- [catears.svg](../files/catears.svg): a recreation of the cat ears, as svg, for recreational use
+- [catears.step](../files/catears.step): cat ears in step format for better modification possibilities
+- [catears.stl](../files/catears.stl): ready to slice model
